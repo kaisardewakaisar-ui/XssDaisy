@@ -1,0 +1,5 @@
+requests>=2.28.0
+colorama>=0.4.6
+rich>=13.0.0
+wafw00f>=2.2.0
+urllib3>=1.26.0
